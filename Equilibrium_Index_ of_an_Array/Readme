@@ -1,0 +1,4 @@
+Equilibrium Index of an array is the index at which the sum of the elements in the lower indexes is equal to the sum of elements
+in higher indexes.
+
+The Time Complexity is O(n) for this solution.
